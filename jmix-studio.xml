@@ -32,6 +32,19 @@
           </option>
         </ModuleSettings>
       </entry>
+      <entry key="jmix-training-ui-development-basic.main">
+        <ModuleSettings>
+          <option name="dataStoreOptions">
+            <map>
+              <entry key="main">
+                <value>
+                  <DataStoreSettings />
+                </value>
+              </entry>
+            </map>
+          </option>
+        </ModuleSettings>
+      </entry>
     </moduleSettings>
   </component>
 </project>
